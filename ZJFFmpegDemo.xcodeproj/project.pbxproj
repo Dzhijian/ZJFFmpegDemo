@@ -1097,7 +1097,7 @@
 					"\"${PODS_ROOT}/Headers/Public/Masonry\"",
 					"\"${PODS_ROOT}/Headers/Public/YYCategories\"",
 					"\"${PODS_ROOT}/Headers/Public/ZJKitTool\"",
-					"\"$(SRCROOT)/ZJFFmpegDemo/FFmpeg-iOS/include\"",
+					"\"$(SRCROOT)/ZJFFmpegDemo/FFmpegiOS/include\"",
 				);
 				INFOPLIST_FILE = ZJFFmpegDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -1107,7 +1107,7 @@
 				);
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/ZJFFmpegDemo/FFmpeg-iOS/lib",
+					"$(PROJECT_DIR)/ZJFFmpegDemo/FFmpegiOS/lib",
 					"$(PROJECT_DIR)/ZJFFmpegDemo/lib",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = codeDeng.ZJFFmpegDemo;
@@ -1132,7 +1132,7 @@
 					"\"${PODS_ROOT}/Headers/Public/Masonry\"",
 					"\"${PODS_ROOT}/Headers/Public/YYCategories\"",
 					"\"${PODS_ROOT}/Headers/Public/ZJKitTool\"",
-					"\"$(SRCROOT)/ZJFFmpegDemo/FFmpeg-iOS/include\"",
+					"\"$(SRCROOT)/ZJFFmpegDemo/FFmpegiOS/include\"",
 				);
 				INFOPLIST_FILE = ZJFFmpegDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -1142,7 +1142,7 @@
 				);
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/ZJFFmpegDemo/FFmpeg-iOS/lib",
+					"$(PROJECT_DIR)/ZJFFmpegDemo/FFmpegiOS/lib",
 					"$(PROJECT_DIR)/ZJFFmpegDemo/lib",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = codeDeng.ZJFFmpegDemo;
