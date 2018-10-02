@@ -4,8 +4,10 @@
 ## Build generated
 build/
 DerivedData/
+
 ## Folder
 FFmpegiOS/
+
 ## Various settings
 *.xcuserstate
 *.DS_Store
