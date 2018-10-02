@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  ZJFFmpegDemo
+//
+//  Created by 邓志坚 on 2018/9/26.
+//  Copyright © 2018 邓志坚. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <ZJKitTool.h>
+
+
+#endif /* PrefixHeader_pch */
